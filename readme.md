@@ -1,7 +1,3 @@
-# git test
-# this is test
-# this is test2
-# this is test3
-# this is test4
-# this is test5 
-# this is test6 
+# game 
+## game url git@github.com:ThorDevOps/game.git
+本仓库用于存放本人的文档
